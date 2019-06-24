@@ -1,5 +1,5 @@
 # i2c_access
-i2c access
+i2c access with SMBus.
 
 syntax:
 i2c_access width path rw addr reg [value]
